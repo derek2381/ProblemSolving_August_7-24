@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sataykanthkarravula/Desktop/ProblemSolving_August_7-24/LeetCode_Problems",
+      "program": "/Users/sataykanthkarravula/Desktop/ProblemSolving_August_7-24/LeetCode_Problems/build/Debug/outDebug"
+    }
+  ]
+}
